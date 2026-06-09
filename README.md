@@ -1,0 +1,2 @@
+# questions
+about AIGC questions
